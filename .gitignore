@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Add .ipnyb_checkpoints
+.ipnyb_checkpoints
+
+# Add .DS_Store
+.DS_Store
